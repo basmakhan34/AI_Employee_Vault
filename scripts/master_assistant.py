@@ -5,6 +5,13 @@ from groq import Groq
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 
+
+try:
+    from scripts.pdf_generator import create_pdf_report
+    from scripts.financial_watcher import analyze_finances
+except ImportError:
+    from pdf_generator import create_pdf_report
+    from financial_watcher import analyze_finances
 # Naye Modules Import
 from pdf_generator import create_pdf_report
 from financial_watcher import analyze_finances 
