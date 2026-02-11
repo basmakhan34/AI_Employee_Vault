@@ -1,0 +1,5 @@
+token.json
+token_gmail.json
+scripts/credentials.json
+__pycache__/
+*.pdf
