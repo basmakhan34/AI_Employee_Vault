@@ -2,36 +2,36 @@
 
 **Bronze ➔ Silver ➔ Gold Tier Automation**
 
-Ye mera aik comprehensive AI project hai jo aik aam script se shuru hua aur ab aik Full-Scale Cloud Assistant ban chuka hai. Ye mere Business Operations, Finances, aur Communications ko khud-ba-khud handle karta hai.
+This is a comprehensive AI-driven project that evolved from a simple local script into a full-scale Cloud-based Virtual Assistant. It autonomously manages business operations, financial tracking, and executive communications.
 
 ---
 
 ## 🏆 The Evolution Roadmap
 
 ### 🥉 Bronze Tier: The Foundation
-* **File Watcher:** Local files ko monitor karna aur naye documents ko organize karna.
-* **Basic Scripting:** Python ke zariye task automation ki buniad.
+* **File Watcher:** Automated monitoring of local directories to organize and process new documents.
+* **Core Automation:** Establishing the fundamental Python framework for task scheduling.
 
 ### 🥈 Silver Tier: Communication & Intelligence
-* **Gmail Integration:** Unread emails ko read aur summarize karna.
-* **Google Calendar:** Daily meetings aur schedule ko sync karna.
-* **Groq AI (Llama 3):** Emails aur schedules ka intelligent analysis karke "Executive Briefing" tyar karna.
-* **Discord Alerts:** Har briefing ko foran Discord channel par notify karna.
+* **Gmail Integration:** Seamlessly fetching and summarizing unread emails for quick review.
+* **Google Calendar Sync:** Monitoring upcoming meetings and schedules to extract daily priorities.
+* **Groq AI (Llama 3):** Leveraging high-speed LLM reasoning to transform raw data into intelligent "Executive Briefings."
+* **Discord Notifications:** Instant delivery of reports and alerts via Discord webhooks.
 
 ### 🥇 Gold Tier: Financial Mastery & Cloud Deployment
-* **Financial Analyst:** `Accounting/` folder se CSV files read karke Profit/Loss calculate karna.
-* **Professional PDF:** Aik structured, executive-level PDF report generate karna.
-* **Streamlit Dashboard:** Poore system ko aik "Web App" mein convert karna.
-* **Cloud Ready:** GitHub aur Streamlit Cloud par 24/7 deployment.
+* **Financial Analyst:** Autonomous scanning of `Accounting/` CSV logs to calculate Profit/Loss and Net Position.
+* **Professional Reporting:** Generating structured, executive-level PDF reports using automated layout engines.
+* **Streamlit Dashboard:** Converting the entire engine into a modern, web-based user interface.
+* **Cloud Infrastructure:** Fully deployed on Streamlit Cloud with secure GitHub integration.
 
 ---
 
 ## 🛠️ Built With
-* **LLM:** Llama 3.3-70B (via Groq Cloud)
+* **LLM:** Llama 3.3-70B (Powered by Groq Cloud)
 * **APIs:** Google Gmail API, Google Calendar API
-* **Frontend:** Streamlit
-* **Reporting:** FPDF (Python PDF Library)
-* **Real-time:** Discord Webhooks
+* **Frontend:** Streamlit Framework
+* **PDF Engine:** FPDF Library
+* **Alerting:** Discord Webhooks
 
 ---
 
