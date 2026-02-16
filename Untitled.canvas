@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"54c8ff88aaf74ecf","x":-30,"y":-140,"width":400,"height":240,"type":"file","file":"Accounting/Feb_Transactions.csv.md"},
+		{"id":"5088d1e354b4c586","type":"file","file":"Briefings/Daily_Report.md","x":-190,"y":100,"width":320,"height":400}
+	],
+	"edges":[]
+}

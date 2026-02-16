@@ -1,5 +1,4 @@
-Date, Description, Amount, Category
-2026-02-01, Google Cloud API, -50.00, Software
-2026-02-05, Client Payment - Project Alpha, +1500.00, Revenue
-2026-02-07, Starbucks Coffee, -15.00, Food
-2026-02-08, Netflix Subscription, -20.00, Software
+Date,Description,Amount,Type
+2026-02-15,Project Payment,2000,income
+2026-02-16,Internet Bill,85,expense
+2026-02-16,Groceries,500,expense
